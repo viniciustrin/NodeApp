@@ -35,6 +35,7 @@
     <Compile Include="gulpfile.js" />
     <Compile Include="public\js\bootstrap.min.js" />
     <Compile Include="server.js" />
+    <Content Include=".bowerrc" />
     <Content Include="package.json" />
     <Content Include="public\css\bootstrap.min.css" />
     <Content Include="public\css\styles.css" />

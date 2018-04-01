@@ -1,0 +1,21 @@
+{
+  "name": "livraria",
+  "description": "Livraria",
+  "main": "app.js",
+  "authors": [
+    "Vinicius"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/viniciutrindade/NodeApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3",
+    "font-awesome": "4"
+  }
+}
