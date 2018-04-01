@@ -1,0 +1,17 @@
+{
+  "name": "livraria",
+  "version": "0.0.0",
+  "description": "Livraria",
+  "main": "app.js",
+  "author": "Vinicius",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
