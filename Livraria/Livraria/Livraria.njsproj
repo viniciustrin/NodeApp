@@ -335,7 +335,7 @@
     <Content Include="public\lib\jquery\README.md" />
     <Content Include="public\lib\jquery\src\.eslintrc.json" />
     <Content Include="README.md" />
-    <Content Include="src\views\index.html" />
+    <Content Include="src\views\index.ejs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
